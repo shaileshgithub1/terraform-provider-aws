@@ -75,4 +75,4 @@ markdown_extensions:
       permalink: "#"
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/extra.csstggt
